@@ -106,7 +106,7 @@
     "singleQuote": true
   },
   "lint-staged": {
-    "**/*.{js,json,css,scss,md}": [
+    "src/**/*.{js,json,css,scss,md}": [
       "prettier --write",
       "git add"
     ],
