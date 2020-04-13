@@ -1,6 +1,6 @@
 # default-config
 
-An opinionated set of tooling and configurations for Babel, ESLint, Prettier, and Git!
+An opinionated set of tooling and configurations for Babel, ESLint, Prettier, and Git.
 
 TLDR: Copy all or part of this package.json into your package.json for tooling and configuration for [Babel](https://babeljs.io/), [ESLint](https://eslint.org), [Prettier](https://prettier.io), and [Git](https://git-scm.com).
 
